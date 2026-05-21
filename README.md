@@ -18,7 +18,6 @@ The Wheel Strategy is an options trading strategy that combines selling cash-sec
 
 # Project Files
 1. wheel_strategy_backtest.ipynb — Main notebook containing data processing, strategy simulation, and analysis
-2. requirements.txt — Required Python dependencies
 
 # Key Findings
 The Wheel Strategy generated relatively stable premium income and reduced short-term volatility compared to buy-and-hold. However, during strong bull markets, the strategy often underperformed SPY due to capped upside from covered calls. The results highlight the tradeoff between income generation, downside protection, and long-term capital appreciation.
